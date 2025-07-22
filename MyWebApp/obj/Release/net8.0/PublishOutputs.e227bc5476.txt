@@ -1,0 +1,12 @@
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/MyWebApp
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/appsettings.Development.json
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/appsettings.json
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/MyWebApp.dll
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/MyWebApp.deps.json
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/MyWebApp.runtimeconfig.json
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/MyWebApp.pdb
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/Microsoft.AspNetCore.OpenApi.dll
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/Microsoft.OpenApi.dll
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/Swashbuckle.AspNetCore.Swagger.dll
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/presidio/Documents/Genspark/Day_55/MyWebApp/publish/Swashbuckle.AspNetCore.SwaggerUI.dll
